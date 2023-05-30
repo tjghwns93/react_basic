@@ -24,3 +24,9 @@
 # SPA : Single Page Application
    페이지는 하나인데 여러개인 것처럼 눈속임을 한다.--> 자바스크립트가 해준다. 페이지를 매번 새로고침할 필요가 없음.
    웹사이트를 모바일앱처럼 사용할 수 있음.
+
+# VS CODE 확장프로그램
+![image](https://github.com/tjghwns93/react_basic/assets/129016977/cc550a47-682c-4b96-959a-7566191005fd)
+
+# setting 설정
+![image](https://github.com/tjghwns93/react_basic/assets/129016977/422b9b38-6ca9-4cdf-b1ed-2d3a6a0fac50)
