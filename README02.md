@@ -18,4 +18,15 @@
   # 화살표함수로 바꿈
  ![image](https://github.com/tjghwns93/react_basic/assets/129016977/2c54e219-b04b-416d-a23b-7f06269e2102)
 
-  
+  # 클릭하면 함수실행(Event Handling)
+  ![image](https://github.com/tjghwns93/react_basic/assets/129016977/9647bd64-f722-4121-999b-eaaef3755d08)
+
+  # 함수를 밖으로 뺌
+  ![image](https://github.com/tjghwns93/react_basic/assets/129016977/f4326a07-0de4-4612-877a-fba2d76ca7c7)
+
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다. react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다.
+  ![image](https://github.com/tjghwns93/react_basic/assets/129016977/0d2edd57-d54e-448c-987c-e0c665c3722f)
+
+  ==>해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+![image](https://github.com/tjghwns93/react_basic/assets/129016977/9fa2da3d-fb27-486e-a8dd-ac99099c4417)
+
