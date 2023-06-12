@@ -16,4 +16,8 @@
 # 그래서 port를 변경해 주어야 한다.
         npx json-server --watch db.json --port 3004
 
+# 서버와 통신하기
 
+![image](https://github.com/tjghwns93/react_basic/assets/129016977/ccb06a93-d99c-43c7-8e8d-76a7c34072f6)
+
+        npm i axios
